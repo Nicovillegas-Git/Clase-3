@@ -1,1 +1,1 @@
-# Clase-3
+Estoy aprendiendo Pull Requests, en el repositorio de un compañero para probar como funciona.
