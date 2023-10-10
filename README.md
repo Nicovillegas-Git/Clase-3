@@ -1,1 +1,1 @@
-Estoy aprendiendo Pull Requests
+Estoy aprendiendo Pull Requests, en el repositorio de un compañero para probar como funciona.
